@@ -1,0 +1,18 @@
+# Core AI/ML Libraries
+ultralytics>=8.0.0  # YOLOv8
+opencv-python>=4.8.0
+numpy>=1.24.0
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Audio Feedback
+gtts>=2.4.0
+playsound>=1.3.0
+pyttsx3>=2.90  # Alternative offline TTS
+
+# Image Processing
+Pillow>=10.0.0
+scikit-image>=0.21.0
+
+# Utilities
+python-dotenv>=1.0.0
